@@ -1,0 +1,9 @@
+question,opt0,opt1,opt2,opt3,answer
+"在 p5.js 中，用來設定畫布大小的指令是？","createCanvas()","setSize()","background()","canvasSize()",0
+"下列哪一個指令是用來設定畫布的背景顏色？","setColor()","background()","fill()","stroke()",1
+"如果要繪製一個長方形，應使用下列哪個指令？","circle()","ellipse()","rect()","line()",2
+"下列哪個函數會在程式執行時「持續重複執行」？","setup()","init()","draw()","loop()",2
+"用來設定圖形內部填滿顏色的指令是？","fill()","stroke()","color()","background()",0
+"如果要取得畫布的寬度，應使用下列哪個變數？","windowWidth","width","size","canvasWidth",1
+"下列哪個指令可以用來繪製一個圓形？","circle()","rect()","line()","square()",0
+"用來設定線條外框顏色的指令是？","stroke()","fill()","color()","background()",0
